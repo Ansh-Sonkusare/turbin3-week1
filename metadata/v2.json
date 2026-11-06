@@ -1,0 +1,8 @@
+{
+  "name": "Turbin3 Builder #1 (Evolved)",
+  "symbol": "TB3",
+  "description": "Same asset, metadata updated by its update authority, minted for Turbin3 Q4 2026 Builders Cohort Week 1.",
+  "image": "https://raw.githubusercontent.com/Ansh-Sonkusare/turbin3-week1/main/metadata/v2.svg",
+  "attributes": [{ "trait_type": "Stage", "value": "Evolved" }],
+  "properties": { "files": [{ "uri": "https://raw.githubusercontent.com/Ansh-Sonkusare/turbin3-week1/main/metadata/v2.svg", "type": "image/svg+xml" }], "category": "image" }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "turbin3-week1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "token": "tsx src/1-spl-token.ts",
+    "mint": "tsx src/2-mint-nft.ts",
+    "update": "tsx src/3-update-nft.ts",
+    "transfer": "tsx src/4-transfer-nft.ts",
+    "burn": "tsx src/5-burn-nft.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@metaplex-foundation/mpl-core": "^1.10.0",
+    "@metaplex-foundation/mpl-toolbox": "^0.12.0",
+    "@metaplex-foundation/umi": "^1.6.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  }
+}
